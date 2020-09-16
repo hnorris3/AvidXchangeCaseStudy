@@ -19,7 +19,7 @@ AvidXchange provides this software suite to some of the following industries:
 
 *An advantage that AvidXchange has on some of its competitors is that they have the ability to integrate with over 150 existing business accounting systems*
 AvidXchange owns software technology that contributes to a majority of their revenue. 
-AvidXchange is considered  a >cloudcompany and can be used in the mobile arena
+AvidXchange is considered  a "cloudcompany" and can be used in the mobile arena
 #### Some Software Sollutions that AvidXchange offers ###
 - Bill Payment Software - Automates the bill paying process by routing bills to approvers once they approve within the workflow allowing companies to make electronic payments debited from the companies bank account to a trust account that ensures secure funding and sending the payments to vendors.
 - Purchase Order Software - Web-based solution that provides a standard for purchase patterns that also tracks purchasers and products.
