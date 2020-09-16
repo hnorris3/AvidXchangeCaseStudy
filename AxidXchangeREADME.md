@@ -10,12 +10,12 @@ AvidXchange has an estimated $2M annual revenue and has raised $1.4B in funding.
 ### Business Activities ###
 AvidXchange developes software that provides 24 hour access to digital application suites that saves time and money for companies by automating their accounts payable process. 
 AvidXchange provides this software suite to some of the following industries:
--Real Estate - Offering a suite of scaleable account payable software 
--Banking - Automate receiving, approving and paying invoices
--Construction - for construction finance management AvidXchange offers accounts payable solutions
--Community Association Management - specific software for HOA's that manage accounts payable
--Healthcare and Social Services - Provides paperless invoice solutions to help manage expenses
--Software and Technology - Cloud based accounts payable
+1. Real Estate - Offering a suite of scaleable account payable software 
+2. Banking - Automate receiving, approving and paying invoices
+3. Construction - for construction finance management AvidXchange offers accounts payable solutions
+4. Community Association Management - specific software for HOA's that manage accounts payable
+5. Healthcare and Social Services - Provides paperless invoice solutions to help manage expenses
+6. Software and Technology - Cloud based accounts payable
 *An advantage that AvidXchange has on some of its competitors is that they have the ability to integrate with over 150 existing business accounting systems*
 AvidXchange owns software technology that contributes to a majority of their revenue. 
 AvidXchange is considered  a >cloudcompany and can be used in the mobile arena
