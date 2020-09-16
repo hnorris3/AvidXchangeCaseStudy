@@ -10,20 +10,21 @@ AvidXchange has an estimated $2M annual revenue and has raised $1.4B in funding.
 ### Business Activities ###
 AvidXchange developes software that provides 24 hour access to digital application suites that saves time and money for companies by automating their accounts payable process. 
 AvidXchange provides this software suite to some of the following industries:
-1. Real Estate - Offering a suite of scaleable account payable software 
-2. Banking - Automate receiving, approving and paying invoices
-3. Construction - for construction finance management AvidXchange offers accounts payable solutions
-4. Community Association Management - specific software for HOA's that manage accounts payable
-5. Healthcare and Social Services - Provides paperless invoice solutions to help manage expenses
-6. Software and Technology - Cloud based accounts payable
+- Real Estate - Offering a suite of scaleable account payable software 
+- Banking - Automate receiving, approving and paying invoices
+- Construction - for construction finance management AvidXchange offers accounts payable solutions
+- Community Association Management - specific software for HOA's that manage accounts payable
+- Healthcare and Social Services - Provides paperless invoice solutions to help manage expenses
+- Software and Technology - Cloud based accounts payable
+
 *An advantage that AvidXchange has on some of its competitors is that they have the ability to integrate with over 150 existing business accounting systems*
 AvidXchange owns software technology that contributes to a majority of their revenue. 
 AvidXchange is considered  a >cloudcompany and can be used in the mobile arena
 #### Some Software Sollutions that AvidXchange offers ###
--Bill Payment Software - Automates the bill paying process by routing bills to approvers once they approve within the workflow allowing companies to make electronic payments debited from the companies bank account to a trust account that ensures secure funding and sending the payments to vendors.
--Purchase Order Software - Web-based solution that provides a standard for purchase patterns that also tracks purchasers and products.
--Check Printing Software - Allows vendors to be paid how and when they want to be paid. Paper check printing software is available that sends paper checks or e-payments to vendors.
--AvidXchange Strongroom - Invoice solution geared towards Community Association Management and HomeOwners Associations offering paperless invoices.
+- Bill Payment Software - Automates the bill paying process by routing bills to approvers once they approve within the workflow allowing companies to make electronic payments debited from the companies bank account to a trust account that ensures secure funding and sending the payments to vendors.
+- Purchase Order Software - Web-based solution that provides a standard for purchase patterns that also tracks purchasers and products.
+- Check Printing Software - Allows vendors to be paid how and when they want to be paid. Paper check printing software is available that sends paper checks or e-payments to vendors.
+- AvidXchange Strongroom - Invoice solution geared towards Community Association Management and HomeOwners Associations offering paperless invoices.
 
 ---
 
@@ -31,9 +32,9 @@ AvidXchange is considered  a >cloudcompany and can be used in the mobile arena
 AvidXchange is in the Payments and Billing Fintech Domain
 Major trends of this domain in the last 5 to 10 years have been the advancement of automated invoice and payment solutions thus eliminating manual data entry and providing paperless invoices. Invoices can be reviewed anytime on a mobile device
 Other companies in this domain include the following:
--billpay.com
--SAP Concur
--billtrust
+- billpay.com
+- SAP Concur
+- billtrust
 
 ---
 
